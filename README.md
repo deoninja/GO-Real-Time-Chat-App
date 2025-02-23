@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/deoninja/GO-Real-Time-Chat-App.git
-cd chat-app
+cd GO-Real-Time-Chat-App
 ```
 
 ### 2. Run the Go Server
