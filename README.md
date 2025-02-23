@@ -36,7 +36,7 @@ You can open multiple browser tabs to test real-time messaging.
 
 ## File Structure
 ```
-chat-app/
+GO-Real-Time-Chat-App
 │── main.go           # Go server
 │── public/
 │   ├── index.html    # Chat UI
